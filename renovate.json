@@ -3,4 +3,5 @@
     "config:base"
   ],
   "pinVersions": false
+  "prHourlyLimit": 0
 }
