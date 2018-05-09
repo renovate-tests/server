@@ -2,6 +2,6 @@
   "extends": [
     "config:base"
   ],
-  "pinVersions": false
+  "pinVersions": false,
   "prHourlyLimit": 0
 }
